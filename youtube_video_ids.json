@@ -2,22 +2,19 @@
   "status": "success",
   "data": [
     {
-      "id": "1",
       "title": "बाबांची आरती - भाग १",
       "thumbnail": "https://img.youtube.com/vi/0_p-Zoj6wFo/0.jpg",
-      "videoUrl": "0_p-Zoj6wFo"
+      "videoId": "0_p-Zoj6wFo"
     },
     {
-      "id": "2",
       "title": "बाबांची आरती - भाग २",
       "thumbnail": "https://img.youtube.com/vi/0_p-Zoj6wFo/0.jpg",
-      "videoUrl": "0_p-Zoj6wFo"
+      "videoId": "0_p-Zoj6wFo"
     },
     {
-      "id": "3",
       "title": "भजन संगीतातील विशेष व्हिडिओ",
       "thumbnail": "https://img.youtube.com/vi/kQpw1YcdWSM/0.jpg",
-      "videoUrl": "kQpw1YcdWSM"
+      "videoId": "kQpw1YcdWSM"
     }
   ]
 }
