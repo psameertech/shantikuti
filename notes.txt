@@ -1,1 +1,1 @@
-liveid = id/nolive/""/evening
+liveid = id/nolive/evening
